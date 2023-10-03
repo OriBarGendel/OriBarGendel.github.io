@@ -1,4 +1,4 @@
-﻿# Ori Bar Gendel
+# Ori Bar Gendel
 
 ## About
 
@@ -30,10 +30,13 @@ Linguistics, history, literature, programming, music, art, all living things... 
 
 ## Projects
 ### Programming Projects
-- Cyre (Private, In Progress): Cyre (Code Your Robot Easily) is a project I started back in 2020 that aims to give a simple interface to code a robot using ATmega2560 (Arduino Mega), together with a simulator (on Linux and Windows). When it finally gets to a minimal working state, I will of course make it open source, whenever that may be...
-- Porting TEX to OpenVMS (Private, In Progress): A few months ago I decided to run TEX on MicroVAX II running OpenVMS. It turns out that I need to port modern TEX to OpenVMS VAX 7.3. When I finish this I will of course make everything, including tutorials and an account of my journey, public. (I got into VMS through my father, who is a MicroVAX collector -- see [here](http://microvax2.dynv6.net)).
+- Cyre (Private, In Progress): 
+Cyre (Code Your Robot Easily) is a project I started back in 2020 that aims to give a simple interface to code a robot using ATmega2560 (Arduino Mega), together with a simulator (on Linux and Windows). When it finally gets to a minimal working state, I will of course make it open source, whenever that may be...
+- Porting TEX to OpenVMS (Private, In Progress):
+A few months ago I decided to run TEX on MicroVAX II running OpenVMS. It turns out that I need to port modern TEX to OpenVMS VAX 7.3. When I finish this I will of course make everything, including tutorials and an account of my journey, public. 
+(I got into VMS through my father, who is a MicroVAX collector -- see [here](http://microvax2.dynv6.net)).
 ### Mathematics Projects
-- Bachelor seminar on Lie algebras under the supervision of Dr. Gil Alon (in Hebrew): see [here](https://drive.google.com/file/d/1lgm_zkTR5Ivr2k1MAJNeQ5Wi-eRQUlY-/view?usp=sharing).
+- Bachelor's seminar on Lie algebras under the supervision of Dr. Gil Alon (in Hebrew): see [here](https://drive.google.com/file/d/1lgm_zkTR5Ivr2k1MAJNeQ5Wi-eRQUlY-/view?usp=sharing).
 
 ## Awards
-- June 2022: Merit award in the Academy in High-School program.
+- June 2022: Merit award in the Academy in High-School Program.
