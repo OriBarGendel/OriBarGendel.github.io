@@ -45,7 +45,7 @@ Apart from mathematics, I’m interested in linguistics, history, literature, pr
 	Cyre (Code Your Robot Easily) is a project I started back in 2020 that aims to give a simple interface to code a robot using ATmega2560 (Arduino Mega), together with a simulator (on Linux and Windows). When it finally gets to a minimal working state, I will of course make it open source, whenever that may be…
     
 - Porting TEX to OpenVMS (Private, In Progress):  
-	In summer 2023 I decided to run TEX on MicroVAX II running OpenVMS. It turns out that I need to port modern TEX to OpenVMS VAX 7.3. When I finish this I will of course make everything, including tutorials and an account of my journey, public.  
+	Around July 2023 I decided to run TEX on MicroVAX II running OpenVMS. It turns out that I need to port modern TEX to OpenVMS VAX 7.3. When I finish this I will of course make everything, including tutorials and an account of my journey, public.  
     (I got into VMS through my father, who is a MicroVAX collector – see [here](http://microvax2.dynv6.net)).
     
 
