@@ -1,21 +1,14 @@
-﻿
-# Ori Bar Gendel
+﻿# Ori Bar-Gendel
 
-![](https://lh3.googleusercontent.com/pw/AP1GczO-s0O5dsHXrpE9MZfWi_NO8fO2uZhdAvf1xEaw-U774lw47KgYSyN6XFUAWot5Dj-CP6Sk8FWj5PRFxhh4f5Ehk_laMmj-zqtnIgtJLgiFUv0LVP6xUlyD4aDZBc3Lbk1F3-78AI8fFvpAD7ymFic5zQ=w1180-h887-s-no-gm?authuser=0)*The beautiful Austrian Untersberg*
+<img src = "https://lh3.googleusercontent.com/pw/AP1GczPN12CQEC_Uw4xvz_oM8aX0BXaofb66bkdCMk7HPVLoPf8Si-Xn_13DAWzQZZleeRVFcv4JSNseY2q8eIft5aTXWGYw0WhXxO6PwwWyh7PQ18gcilsE9Z7UqAR5MyEwbRS04aaQ0_R9wwuhZgPknF2-fA=w1556-h888-s-no-gm?authuser=0">
+
+*The beautiful Austrian Untersberg*
 
 ## About
-
-Hi there! My name is Ori.
-
-I grew up in Israel and started a Bachelor in mathematics in 2020 at the age of 15. I finished it in August 2023, and I’m currently studying for a Master in mathematics at the University of Bonn.
-
-Feel free to get in touch, and we can have a nice conversation about Life, the Universe, and Everything else that comes to mind.
-
+I am currently a Master of mathematics student.
 Details:
 - Full Name: Ori Bar-Gendel
-	- Pronunciation: oʁ’i, like English _or_ with an added _i_. Rhymes with English _free_.
-	- _Bar_ isn’t a middle name, but _Bar Gendel_ is my family name.
-- Pronouns: He/Him
+- Pronouns: he/him
 - Contact: ori (dot) bg (at) uni-bonn (dot) de
 
 ## Education
@@ -50,13 +43,7 @@ Apart from mathematics, I’m interested in linguistics, history, literature, pr
 	When I finish this I will of course make everything, including tutorials and an account of my journey, public.
     I got into VMS through my father, who is a MicroVAX collector --- you are welcome to visit his museum's [website](https://microvax2.org/wp/) or the aforementioned [TARZAN](http://microvax2.dynv6.net).
 
-
-## Awards
-
--   June 2022: Merit award in the Academy in High-School Program.
-
 ---
 
 _01-JUNE-2024
-This HTML file was produced using [StackEdit](https://github.com/benweet/stackedit), with only a few manual tweaks. The style used was also tweaked a little, and it can be found [here](https://github.com/OriBarGendel/OriBarGendel.github.io).
-The original Markdown file can be found [here](https://github.com/OriBarGendel/OriBarGendel.github.io)._
+This HTML file was produced using [StackEdit](https://github.com/benweet/stackedit). The original Markdown file can be found [here](https://github.com/OriBarGendel/OriBarGendel.github.io)._
