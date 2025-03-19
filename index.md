@@ -1,4 +1,5 @@
-﻿# Ori Bar-Gendel
+﻿
+# Ori Bar-Gendel
 
 <img src = "https://lh3.googleusercontent.com/pw/AP1GczPN12CQEC_Uw4xvz_oM8aX0BXaofb66bkdCMk7HPVLoPf8Si-Xn_13DAWzQZZleeRVFcv4JSNseY2q8eIft5aTXWGYw0WhXxO6PwwWyh7PQ18gcilsE9Z7UqAR5MyEwbRS04aaQ0_R9wwuhZgPknF2-fA=w1556-h888-s-no-gm?authuser=0">
 
@@ -10,6 +11,12 @@ Details:
 - Full Name: Ori Bar-Gendel
 - Pronouns: he/him
 - Contact: ori (dot) bg (at) uni-bonn (dot) de
+
+## Maths Writings
+
+Below is a list of my humble maths writings.
+- Bachelor’s seminar on Lie algebras under the supervision of Dr. Gil Alon (in Hebrew): see [here](https://github.com/OriBarGendel/Bachelor-Seminar).
+- Typed notes from courses I attended at the University of Bonn: see [here](https://github.com/OriBarGendel/maths-notes). *Use them at your own risk.*
 
 ## Education
 
@@ -23,17 +30,13 @@ Playing the piano, reading books (mostly fantasy), writing poems and short stori
 
 ## Interests
 
-In mathematics I am mostly interested in algebra, specifically algebraic number theory and algebraic geometry. I plan to continue to a PhD in mathematics.
+In mathematics I am mostly interested in algebra, specifically representation theory and algebraic geometry. My Master's thesis, under the supervision of [Jens Eberhardt](https://jenseberhardt.com), is in the area of geometric representation theory. I plan to continue to a PhD in mathematics.
 
 Apart from mathematics, I’m interested in linguistics, history, literature, programming, music, art, all living things… and pretty much everything else.
 
-## Projects
+## Programming Projects
 
-### Mathematics Projects
-
-- Bachelor’s seminar on Lie algebras under the supervision of Dr. Gil Alon (in Hebrew): see [here](https://github.com/OriBarGendel/Bachelor-Seminar).
-
-### Programming Projects
+Below is a list of some programming projects I'm working on, or rather worked on. I will finish them at some point. I promise.
 
 - Cyre (Private, In Progress):
 	Cyre (Code Your Robot Easily) is a project I started back in 2020 that aims to give a simple interface to code a robot built on [Arduino Mega](https://store.arduino.cc/products/arduino-mega-2560-rev3) (based on [ATmega2560](https://www.microchip.com/en-us/product/atmega2560)), together with a simulator (on Linux and Windows). When it finally gets to a minimal working state, I will of course make it open source, whenever that may be…
@@ -45,5 +48,5 @@ Apart from mathematics, I’m interested in linguistics, history, literature, pr
 
 ---
 
-_01-JUNE-2024
+_19-MAR-2025
 This HTML file was produced using [StackEdit](https://github.com/benweet/stackedit). The original Markdown file can be found [here](https://github.com/OriBarGendel/OriBarGendel.github.io)._
