@@ -1,12 +1,12 @@
-﻿
-# Ori Bar-Gendel
+﻿# Ori Bar-Gendel
 
 <img src = "https://lh3.googleusercontent.com/pw/AP1GczPN12CQEC_Uw4xvz_oM8aX0BXaofb66bkdCMk7HPVLoPf8Si-Xn_13DAWzQZZleeRVFcv4JSNseY2q8eIft5aTXWGYw0WhXxO6PwwWyh7PQ18gcilsE9Z7UqAR5MyEwbRS04aaQ0_R9wwuhZgPknF2-fA=w1556-h888-s-no-gm?authuser=0">
 
 *The beautiful Austrian Untersberg*
 
 ## About
-I am currently a Master of mathematics student.
+I am currently a former master of mathematics student travelling around the world.
+
 Details:
 - Full Name: Ori Bar-Gendel
 - Pronouns: he/him
@@ -14,13 +14,14 @@ Details:
 
 ## Maths Writings
 
-Below is a list of my humble maths writings.
-- Bachelor’s seminar on Lie algebras under the supervision of Dr. Gil Alon (in Hebrew): see [here](https://github.com/OriBarGendel/Bachelor-Seminar).
+Below is a list of my humble maths writings:
+- Master's thesis supervised by [Jens Eberhardt](https://jenseberhardt.com) and entitled 'Extensions of Verma Modules, Lie Algebra Cohomology, and the Beilinson-Bernstein Localistation': see [here](https://github.com/OriBarGendel/master-thesis).
 - Typed notes from courses I attended at the University of Bonn: see [here](https://github.com/OriBarGendel/maths-notes). *Use them at your own risk.*
+- Bachelor’s seminar on Lie algebras under the supervision of Dr. Gil Alon (in Hebrew): see [here](https://github.com/OriBarGendel/Bachelor-Seminar).
 
 ## Education
 
-2023 --- present: Master of Science in Mathematics at Universität Bonn.
+2023 --- 2025: Master of Science in Mathematics at Universität Bonn.
 
 2020 --- 2023: Bachelor of Science in Mathematics at the Open University of Israel.
 
@@ -30,9 +31,9 @@ Playing the piano, reading books (mostly fantasy), writing poems and short stori
 
 ## Interests
 
-In mathematics I am mostly interested in algebra, specifically representation theory and algebraic geometry. My Master's thesis, under the supervision of [Jens Eberhardt](https://jenseberhardt.com), is in the area of geometric representation theory. I plan to continue to a PhD in mathematics.
+In mathematics I am mostly interested in algebra, specifically representation theory and algebraic geometry. My master's thesis, under the supervision of [Jens Eberhardt](https://jenseberhardt.com), is in the area of geometric representation theory. I plan to continue to a PhD in mathematics.
 
-Apart from mathematics, I’m interested in linguistics, history, literature, programming, music, art, all living things… and pretty much everything else.
+Apart from mathematics, I’m interested in linguistics (especially historical and comparative linguistics), history, literature, programming, music, art, all living things… and pretty much everything else.
 
 ## Programming Projects
 
@@ -48,5 +49,5 @@ Below is a list of some programming projects I'm working on, or rather worked on
 
 ---
 
-_19-MAR-2025
-This HTML file was produced using [StackEdit](https://github.com/benweet/stackedit). The original Markdown file can be found [here](https://github.com/OriBarGendel/OriBarGendel.github.io)._
+_24-MAR-2026
+This HTML file was created using [StackEdit](https://github.com/benweet/stackedit) with the default 'Styled HTML' template. The original Markdown file can be found [here](https://github.com/OriBarGendel/OriBarGendel.github.io)._
