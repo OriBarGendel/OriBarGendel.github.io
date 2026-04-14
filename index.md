@@ -10,7 +10,7 @@ I am currently a former master of mathematics student travelling around the worl
 Details:
 - Full Name: Ori Bar-Gendel
 - Pronouns: he/him
-- Contact: ori (dot) bg (at) uni-bonn (dot) de
+- Contact: s54obarg (at) uni-bonn (dot) de
 
 ## Maths Writings
 
