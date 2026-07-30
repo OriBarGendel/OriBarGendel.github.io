@@ -27,20 +27,20 @@ Below is a list of my humble maths writings:
 
 ## Hobbies
 
-Playing the piano, reading books (mostly fantasy), writing poems and short stories, listening to music, and generally being curious. When I have the time I sometimes code, mostly in C and C++.
+Playing the piano, reading books (mostly fantasy), listening to music, writing poems and short stories, and generally being curious. When I have the time I sometimes code, mostly in C and C++, and more recently some Elisp as well, go figure...
 
 ## Interests
 
-In mathematics I am mostly interested in algebra, specifically representation theory and algebraic geometry. My master's thesis, under the supervision of [Jens Eberhardt](https://jenseberhardt.com), is in the area of geometric representation theory. I plan to continue to a PhD in mathematics.
+In mathematics I am mostly interested in algebra, specifically [representation theory](https://en.wikipedia.org/wiki/Representation_theory) and [algebraic geometry](https://en.wikipedia.org/wiki/Algebraic_geometry). My master's thesis, under the supervision of [Jens Eberhardt](https://jenseberhardt.com), is in the areas of representation theory and its intersection with algebraic geometry, so-called geometric representation theory.
 
-Apart from mathematics, I’m interested in linguistics (especially historical and comparative linguistics), history, literature, programming, music, art, all living things… and pretty much everything else.
+Apart from mathematics, I’m interested in programming, linguistics (especially historical and comparative linguistics), music, history, literature, art, all living things… and pretty much everything else.
 
 ## Programming Projects
 
-Below is a list of some programming projects I'm working on, or rather worked on. I will finish them at some point. I promise.
+Below is a list of some of the larger programming projects I'm working on, or rather worked on. I will finish them at some point. I promise.
 
 - Cyre (Private, In Progress):
-	Cyre (Code Your Robot Easily) is a project I started back in 2020 that aims to give a simple interface to code a robot built on [Arduino Mega](https://store.arduino.cc/products/arduino-mega-2560-rev3) (based on [ATmega2560](https://www.microchip.com/en-us/product/atmega2560)), together with a simulator (on Linux and Windows). When it finally gets to a minimal working state, I will of course make it open source, whenever that may be…
+	Cyre (Code Your Robot Easily) is a project I started back in 2020 that aims to give a simple interface to code a robot built on [Arduino Mega](https://store.arduino.cc/products/arduino-mega-2560-rev3) (based on [ATmega2560](https://www.microchip.com/en-us/product/atmega2560)), together with a simulator (on Linux and Windows). When I finally get back to it and get it to a minimal working state, I will of course make it open source, whenever that may be…
 
 - Porting TEX to OpenVMS (Private, In Progress):
 	Around July 2023 I decided to run [$\LaTeX$](https://www.latex-project.org) on [MicroVAX II](https://en.wikipedia.org/wiki/MicroVAX#MicroVAX_II) running [OpenVMS](https://en.wikipedia.org/wiki/OpenVMS). It turns out that I need to port modern $\LaTeX$ to VAX/VMS 7.3 --- specifically this version, as this is the one that is installed on [TARZAN](http://microvax2.dynv6.net), my father's contraption.
@@ -49,5 +49,5 @@ Below is a list of some programming projects I'm working on, or rather worked on
 
 ---
 
-_24-MAR-2026
+_30-JUL-2026
 This HTML file was created using [StackEdit](https://github.com/benweet/stackedit) with the default 'Styled HTML' template. The original Markdown file can be found [here](https://github.com/OriBarGendel/OriBarGendel.github.io)._
